@@ -1,0 +1,40 @@
+.slick-prev:before,
+.slick-next:before {
+  color: #777777 !important;
+}
+
+.slick-prev{
+  left: 5px !important;
+  &:before {
+    content: "<" !important;
+  }
+}
+
+.slick-next{
+  right: 2px !important;
+  &:before {
+    content: ">" !important;
+  }
+}
+
+.slick-tab {
+  padding: 4px 10px;
+  background: #f5f4f4;
+  border: 1px solid #cecece;
+  border-radius: 10px;
+  margin: 0 5px;
+  font-weight: bold;
+  text-align: center;
+  font-size: 1.1rem;
+  text-transform: uppercase;
+  color: #777777;
+
+  &.active {
+    background: #ef3340;
+    border-color: #ef3340;
+    color: white;
+  }
+}
+.slick-slider {
+  position: static !important;
+}

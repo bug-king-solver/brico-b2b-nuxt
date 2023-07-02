@@ -1,0 +1,139 @@
+<template>
+  <section class="new-products-section appear-animate" v-animate>
+    <div class="container">
+      <h2 class="section-title heading-border ls-20 border-0">
+        {{ $t("New Arrivals") }}
+      </h2>
+
+      <pv-carousel
+        class="products-slider custom-products nav-outer show-nav-hover nav-image-center"
+        :options="productSlider"
+        v-if="products.length === 0"
+      >
+        <div
+          v-for="item in [1, 2, 3, 4, 5]"
+          :key="item"
+          class="swiper-slide product-loading-overlay"
+        ></div>
+      </pv-carousel>
+
+      <pv-carousel
+        class="products-slider custom-products nav-outer show-nav-hover nav-image-center mb-2"
+        :options="productSlider"
+        v-if="products"
+      >
+        <pv-product-one
+          v-for="(product, index) in products"
+          :key="'featured' + index"
+          :product="product"
+          class="swiper-slide"
+        ></pv-product-one>
+      </pv-carousel>
+
+      <!-- <div
+				v-if="smallBanner"
+				class="banner banner-big-sale appear-animate"
+				v-animate
+				data-animation-delay="200"
+				data-animation-name="fadeInUpShorter"
+				:src:background-image="smallBanner.img.url"
+			>
+				<div class="banner-content row align-items-center mx-0">
+					<div class="col-md-9 col-sm-8">
+						<h2
+							class="
+								text-white
+								text-uppercase
+								text-center
+								text-sm-left
+								ls-n-20
+								mb-md-0
+								px-4
+							"
+						>
+							<b class="d-inline-block mr-3 mb-1 mb-md-0">{{
+								smallBanner.titolo_1
+							}}</b>
+							{{ smallBanner.titolo_2 }}
+							<small class="text-transform-none align-middle">{{
+								smallBanner.titolo_3
+							}}</small>
+						</h2>
+					</div>
+					<div class="col-md-3 col-sm-4 text-center text-sm-right">
+						<nuxt-link
+							class="btn btn-light btn-white btn-lg"
+							:to="smallBanner.banner_picccolo_button.link"
+							>{{
+								smallBanner.banner_picccolo_button.label
+							}}</nuxt-link
+						>
+					</div>
+				</div>
+			</div> -->
+
+      <h2
+        class="section-title categories-section-title heading-border border-0 ls-0 appear-animate"
+        data-animation-delay="100"
+        data-animation-name="fadeInUpShorter"
+        v-animate
+      >
+        {{ $t("Browse Our Categories") }}
+      </h2>
+
+      <pv-carousel
+        class="categories-slider show-nav-hover nav-outer"
+        :options="categorySlider"
+      >
+        <div
+          class="product-category swiper-slide appear-animate"
+          data-animation-name="fadeInUpShorter"
+          v-animate
+          v-for="(category, index) in categoryList"
+          :key="index"
+        >
+          <nuxt-link :to="category.url">
+            <figure>
+              <nuxt-img
+                :src="category.image"
+                v-if="category.image"
+                :alt="category.label"
+                width="220"
+                height="220"
+              />
+            </figure>
+            <div class="category-content">
+              <h3>{{ category.label }}</h3>
+              <!-- <span> <mark class="count">3</mark> products </span> -->
+            </div>
+          </nuxt-link>
+        </div>
+      </pv-carousel>
+    </div>
+  </section>
+</template>
+
+<script>
+import PvProductOne from "~/components/features/product/PvProductOne";
+import PvCarousel from "~/components/features/PvCarousel";
+import { categorySlider, productSlider } from "~/utils/data/carousel";
+
+export default {
+  components: {
+    PvCarousel,
+    PvProductOne,
+  },
+  props: {
+    products: Array,
+    categoryList: Array,
+    smallBanner: Object,
+  },
+  data: function () {
+    return {
+      productSlider: productSlider,
+      categorySlider: categorySlider,
+    };
+  },
+  mounted: function () {},
+};
+</script>
