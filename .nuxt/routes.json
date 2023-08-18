@@ -1,0 +1,562 @@
+[
+  {
+    "name": "index___en",
+    "path": "/en",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_19be86f0"
+  },
+  {
+    "name": "shop___it",
+    "path": "/shop",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/shop/index.vue",
+    "chunkName": "pages/shop/index",
+    "_name": "_75480f33"
+  },
+  {
+    "name": "shop___en",
+    "path": "/en/shop",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/shop/index.vue",
+    "chunkName": "pages/shop/index",
+    "_name": "_75480f33"
+  },
+  {
+    "name": "pages-about-us___it",
+    "path": "/pages/about-us",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/pages/about-us.vue",
+    "chunkName": "pages/pages/about-us",
+    "_name": "_f7386efa"
+  },
+  {
+    "name": "pages-account___it",
+    "path": "/pages/account",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/pages/account.vue",
+    "chunkName": "pages/pages/account",
+    "_name": "_7385c098"
+  },
+  {
+    "name": "pages-address___it",
+    "path": "/pages/address",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/pages/address.vue",
+    "chunkName": "pages/pages/address",
+    "_name": "_2464d242"
+  },
+  {
+    "name": "pages-blog___it",
+    "path": "/pages/blog",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/pages/blog.vue",
+    "chunkName": "pages/pages/blog",
+    "_name": "_69039072"
+  },
+  {
+    "name": "pages-cart___it",
+    "path": "/pages/cart",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/pages/cart.vue",
+    "chunkName": "pages/pages/cart",
+    "_name": "_195ed776"
+  },
+  {
+    "name": "pages-checkout___it",
+    "path": "/pages/checkout",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/pages/checkout.vue",
+    "chunkName": "pages/pages/checkout",
+    "_name": "_15f3d4eb"
+  },
+  {
+    "name": "pages-contact-us___it",
+    "path": "/pages/contact-us",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/pages/contact-us.vue",
+    "chunkName": "pages/pages/contact-us",
+    "_name": "_05368560"
+  },
+  {
+    "name": "pages-forgot-password___it",
+    "path": "/pages/forgot-password",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/pages/forgot-password.vue",
+    "chunkName": "pages/pages/forgot-password",
+    "_name": "_6683b970"
+  },
+  {
+    "name": "pages-login___it",
+    "path": "/pages/login",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/pages/login.vue",
+    "chunkName": "pages/pages/login",
+    "_name": "_0635a094"
+  },
+  {
+    "name": "pages-orders___it",
+    "path": "/pages/orders",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/pages/orders.vue",
+    "chunkName": "pages/pages/orders",
+    "_name": "_596aa24a"
+  },
+  {
+    "name": "pages-pay___it",
+    "path": "/pages/pay",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/pages/pay.vue",
+    "chunkName": "pages/pages/pay",
+    "_name": "_6f5b59da"
+  },
+  {
+    "name": "pages-payment-failed___it",
+    "path": "/pages/payment-failed",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/pages/payment-failed.vue",
+    "chunkName": "pages/pages/payment-failed",
+    "_name": "_97b4b66e"
+  },
+  {
+    "name": "pages-payment-success___it",
+    "path": "/pages/payment-success",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/pages/payment-success.vue",
+    "chunkName": "pages/pages/payment-success",
+    "_name": "_72a80327"
+  },
+  {
+    "name": "pages-profile___it",
+    "path": "/pages/profile",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/pages/profile.vue",
+    "chunkName": "pages/pages/profile",
+    "_name": "_4a7ca214"
+  },
+  {
+    "name": "pages-register___it",
+    "path": "/pages/register",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/pages/register.vue",
+    "chunkName": "pages/pages/register",
+    "_name": "_58fabfc8"
+  },
+  {
+    "name": "pages-wishlist___it",
+    "path": "/pages/wishlist",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/pages/wishlist.vue",
+    "chunkName": "pages/pages/wishlist",
+    "_name": "_a5b4342c"
+  },
+  {
+    "name": "shop-boxed-image___it",
+    "path": "/shop/boxed-image",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/shop/boxed-image.vue",
+    "chunkName": "pages/shop/boxed-image",
+    "_name": "_0a427bce"
+  },
+  {
+    "name": "shop-boxed-slider___it",
+    "path": "/shop/boxed-slider",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/shop/boxed-slider.vue",
+    "chunkName": "pages/shop/boxed-slider",
+    "_name": "_08f087da"
+  },
+  {
+    "name": "shop-horizontal-filter-1___it",
+    "path": "/shop/horizontal-filter-1",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/shop/horizontal-filter-1.vue",
+    "chunkName": "pages/shop/horizontal-filter-1",
+    "_name": "_0b9e63c6"
+  },
+  {
+    "name": "shop-horizontal-filter-2___it",
+    "path": "/shop/horizontal-filter-2",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/shop/horizontal-filter-2.vue",
+    "chunkName": "pages/shop/horizontal-filter-2",
+    "_name": "_0bac7b47"
+  },
+  {
+    "name": "shop-infinite-scroll___it",
+    "path": "/shop/infinite-scroll",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/shop/infinite-scroll.vue",
+    "chunkName": "pages/shop/infinite-scroll",
+    "_name": "_58325dc7"
+  },
+  {
+    "name": "shop-list___it",
+    "path": "/shop/list",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/shop/list.vue",
+    "chunkName": "pages/shop/list",
+    "_name": "_0ab88b66"
+  },
+  {
+    "name": "shop-off-canvas___it",
+    "path": "/shop/off-canvas",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/shop/off-canvas.vue",
+    "chunkName": "pages/shop/off-canvas",
+    "_name": "_50f7b7e5"
+  },
+  {
+    "name": "shop-right-sidebar___it",
+    "path": "/shop/right-sidebar",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/shop/right-sidebar.vue",
+    "chunkName": "pages/shop/right-sidebar",
+    "_name": "_8b1d64e8"
+  },
+  {
+    "name": "pages-about-us___en",
+    "path": "/en/pages/about-us",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/pages/about-us.vue",
+    "chunkName": "pages/pages/about-us",
+    "_name": "_f7386efa"
+  },
+  {
+    "name": "pages-account___en",
+    "path": "/en/pages/account",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/pages/account.vue",
+    "chunkName": "pages/pages/account",
+    "_name": "_7385c098"
+  },
+  {
+    "name": "pages-address___en",
+    "path": "/en/pages/address",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/pages/address.vue",
+    "chunkName": "pages/pages/address",
+    "_name": "_2464d242"
+  },
+  {
+    "name": "pages-blog___en",
+    "path": "/en/pages/blog",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/pages/blog.vue",
+    "chunkName": "pages/pages/blog",
+    "_name": "_69039072"
+  },
+  {
+    "name": "pages-cart___en",
+    "path": "/en/pages/cart",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/pages/cart.vue",
+    "chunkName": "pages/pages/cart",
+    "_name": "_195ed776"
+  },
+  {
+    "name": "pages-checkout___en",
+    "path": "/en/pages/checkout",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/pages/checkout.vue",
+    "chunkName": "pages/pages/checkout",
+    "_name": "_15f3d4eb"
+  },
+  {
+    "name": "pages-contact-us___en",
+    "path": "/en/pages/contact-us",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/pages/contact-us.vue",
+    "chunkName": "pages/pages/contact-us",
+    "_name": "_05368560"
+  },
+  {
+    "name": "pages-forgot-password___en",
+    "path": "/en/pages/forgot-password",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/pages/forgot-password.vue",
+    "chunkName": "pages/pages/forgot-password",
+    "_name": "_6683b970"
+  },
+  {
+    "name": "pages-login___en",
+    "path": "/en/pages/login",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/pages/login.vue",
+    "chunkName": "pages/pages/login",
+    "_name": "_0635a094"
+  },
+  {
+    "name": "pages-orders___en",
+    "path": "/en/pages/orders",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/pages/orders.vue",
+    "chunkName": "pages/pages/orders",
+    "_name": "_596aa24a"
+  },
+  {
+    "name": "pages-pay___en",
+    "path": "/en/pages/pay",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/pages/pay.vue",
+    "chunkName": "pages/pages/pay",
+    "_name": "_6f5b59da"
+  },
+  {
+    "name": "pages-payment-failed___en",
+    "path": "/en/pages/payment-failed",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/pages/payment-failed.vue",
+    "chunkName": "pages/pages/payment-failed",
+    "_name": "_97b4b66e"
+  },
+  {
+    "name": "pages-payment-success___en",
+    "path": "/en/pages/payment-success",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/pages/payment-success.vue",
+    "chunkName": "pages/pages/payment-success",
+    "_name": "_72a80327"
+  },
+  {
+    "name": "pages-profile___en",
+    "path": "/en/pages/profile",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/pages/profile.vue",
+    "chunkName": "pages/pages/profile",
+    "_name": "_4a7ca214"
+  },
+  {
+    "name": "pages-register___en",
+    "path": "/en/pages/register",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/pages/register.vue",
+    "chunkName": "pages/pages/register",
+    "_name": "_58fabfc8"
+  },
+  {
+    "name": "pages-wishlist___en",
+    "path": "/en/pages/wishlist",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/pages/wishlist.vue",
+    "chunkName": "pages/pages/wishlist",
+    "_name": "_a5b4342c"
+  },
+  {
+    "name": "shop-boxed-image___en",
+    "path": "/en/shop/boxed-image",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/shop/boxed-image.vue",
+    "chunkName": "pages/shop/boxed-image",
+    "_name": "_0a427bce"
+  },
+  {
+    "name": "shop-boxed-slider___en",
+    "path": "/en/shop/boxed-slider",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/shop/boxed-slider.vue",
+    "chunkName": "pages/shop/boxed-slider",
+    "_name": "_08f087da"
+  },
+  {
+    "name": "shop-horizontal-filter-1___en",
+    "path": "/en/shop/horizontal-filter-1",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/shop/horizontal-filter-1.vue",
+    "chunkName": "pages/shop/horizontal-filter-1",
+    "_name": "_0b9e63c6"
+  },
+  {
+    "name": "shop-horizontal-filter-2___en",
+    "path": "/en/shop/horizontal-filter-2",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/shop/horizontal-filter-2.vue",
+    "chunkName": "pages/shop/horizontal-filter-2",
+    "_name": "_0bac7b47"
+  },
+  {
+    "name": "shop-infinite-scroll___en",
+    "path": "/en/shop/infinite-scroll",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/shop/infinite-scroll.vue",
+    "chunkName": "pages/shop/infinite-scroll",
+    "_name": "_58325dc7"
+  },
+  {
+    "name": "shop-list___en",
+    "path": "/en/shop/list",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/shop/list.vue",
+    "chunkName": "pages/shop/list",
+    "_name": "_0ab88b66"
+  },
+  {
+    "name": "shop-off-canvas___en",
+    "path": "/en/shop/off-canvas",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/shop/off-canvas.vue",
+    "chunkName": "pages/shop/off-canvas",
+    "_name": "_50f7b7e5"
+  },
+  {
+    "name": "shop-right-sidebar___en",
+    "path": "/en/shop/right-sidebar",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/shop/right-sidebar.vue",
+    "chunkName": "pages/shop/right-sidebar",
+    "_name": "_8b1d64e8"
+  },
+  {
+    "name": "index___it",
+    "path": "/",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_19be86f0"
+  },
+  {
+    "name": "pages-single-slug___en",
+    "path": "/en/pages/single/:slug?",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/pages/single/_slug.vue",
+    "chunkName": "pages/pages/single/_slug",
+    "_name": "_2abdacb0"
+  },
+  {
+    "name": "product-center-slug___en",
+    "path": "/en/product/center/:slug?",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/product/center/_slug.vue",
+    "chunkName": "pages/product/center/_slug",
+    "_name": "_3aa8232a"
+  },
+  {
+    "name": "product-extended-slug___en",
+    "path": "/en/product/extended/:slug?",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/product/extended/_slug.vue",
+    "chunkName": "pages/product/extended/_slug",
+    "_name": "_70032e8e"
+  },
+  {
+    "name": "product-fullwidth-slug___en",
+    "path": "/en/product/fullwidth/:slug?",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/product/fullwidth/_slug.vue",
+    "chunkName": "pages/product/fullwidth/_slug",
+    "_name": "_a32629b0"
+  },
+  {
+    "name": "product-grid-slug___en",
+    "path": "/en/product/grid/:slug?",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/product/grid/_slug.vue",
+    "chunkName": "pages/product/grid/_slug",
+    "_name": "_0845915b"
+  },
+  {
+    "name": "product-left-sidebar-slug___en",
+    "path": "/en/product/left-sidebar/:slug?",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/product/left-sidebar/_slug.vue",
+    "chunkName": "pages/product/left-sidebar/_slug",
+    "_name": "_bbe8d0aa"
+  },
+  {
+    "name": "product-right-sidebar-slug___en",
+    "path": "/en/product/right-sidebar/:slug?",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/product/right-sidebar/_slug.vue",
+    "chunkName": "pages/product/right-sidebar/_slug",
+    "_name": "_3aa70988"
+  },
+  {
+    "name": "product-sticky-both-slug___en",
+    "path": "/en/product/sticky-both/:slug?",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/product/sticky-both/_slug.vue",
+    "chunkName": "pages/product/sticky-both/_slug",
+    "_name": "_6cc3a276"
+  },
+  {
+    "name": "product-sticky-cart-slug___en",
+    "path": "/en/product/sticky-cart/:slug?",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/product/sticky-cart/_slug.vue",
+    "chunkName": "pages/product/sticky-cart/_slug",
+    "_name": "_2ecc2755"
+  },
+  {
+    "name": "product-sticky-info-slug___en",
+    "path": "/en/product/sticky-info/:slug?",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/product/sticky-info/_slug.vue",
+    "chunkName": "pages/product/sticky-info/_slug",
+    "_name": "_51daf763"
+  },
+  {
+    "name": "product-transparent-slug___en",
+    "path": "/en/product/transparent/:slug?",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/product/transparent/_slug.vue",
+    "chunkName": "pages/product/transparent/_slug",
+    "_name": "_201726a3"
+  },
+  {
+    "name": "shop-grid-type___en",
+    "path": "/en/shop/grid/:type?",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/shop/grid/_type.vue",
+    "chunkName": "pages/shop/grid/_type",
+    "_name": "_38834102"
+  },
+  {
+    "name": "pages-single-slug___it",
+    "path": "/pages/single/:slug?",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/pages/single/_slug.vue",
+    "chunkName": "pages/pages/single/_slug",
+    "_name": "_2abdacb0"
+  },
+  {
+    "name": "product-center-slug___it",
+    "path": "/product/center/:slug?",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/product/center/_slug.vue",
+    "chunkName": "pages/product/center/_slug",
+    "_name": "_3aa8232a"
+  },
+  {
+    "name": "product-extended-slug___it",
+    "path": "/product/extended/:slug?",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/product/extended/_slug.vue",
+    "chunkName": "pages/product/extended/_slug",
+    "_name": "_70032e8e"
+  },
+  {
+    "name": "product-fullwidth-slug___it",
+    "path": "/product/fullwidth/:slug?",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/product/fullwidth/_slug.vue",
+    "chunkName": "pages/product/fullwidth/_slug",
+    "_name": "_a32629b0"
+  },
+  {
+    "name": "product-grid-slug___it",
+    "path": "/product/grid/:slug?",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/product/grid/_slug.vue",
+    "chunkName": "pages/product/grid/_slug",
+    "_name": "_0845915b"
+  },
+  {
+    "name": "product-left-sidebar-slug___it",
+    "path": "/product/left-sidebar/:slug?",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/product/left-sidebar/_slug.vue",
+    "chunkName": "pages/product/left-sidebar/_slug",
+    "_name": "_bbe8d0aa"
+  },
+  {
+    "name": "product-right-sidebar-slug___it",
+    "path": "/product/right-sidebar/:slug?",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/product/right-sidebar/_slug.vue",
+    "chunkName": "pages/product/right-sidebar/_slug",
+    "_name": "_3aa70988"
+  },
+  {
+    "name": "product-sticky-both-slug___it",
+    "path": "/product/sticky-both/:slug?",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/product/sticky-both/_slug.vue",
+    "chunkName": "pages/product/sticky-both/_slug",
+    "_name": "_6cc3a276"
+  },
+  {
+    "name": "product-sticky-cart-slug___it",
+    "path": "/product/sticky-cart/:slug?",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/product/sticky-cart/_slug.vue",
+    "chunkName": "pages/product/sticky-cart/_slug",
+    "_name": "_2ecc2755"
+  },
+  {
+    "name": "product-sticky-info-slug___it",
+    "path": "/product/sticky-info/:slug?",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/product/sticky-info/_slug.vue",
+    "chunkName": "pages/product/sticky-info/_slug",
+    "_name": "_51daf763"
+  },
+  {
+    "name": "product-transparent-slug___it",
+    "path": "/product/transparent/:slug?",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/product/transparent/_slug.vue",
+    "chunkName": "pages/product/transparent/_slug",
+    "_name": "_201726a3"
+  },
+  {
+    "name": "shop-grid-type___it",
+    "path": "/shop/grid/:type?",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/shop/grid/_type.vue",
+    "chunkName": "pages/shop/grid/_type",
+    "_name": "_38834102"
+  },
+  {
+    "name": "det-type-slug___en",
+    "path": "/en/det/:type?/:slug?",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/det/_type/_slug.vue",
+    "chunkName": "pages/det/_type/_slug",
+    "_name": "_6923c94e"
+  },
+  {
+    "name": "product-type-slug___en",
+    "path": "/en/product/:type?/:slug?",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/product/_type/_slug.vue",
+    "chunkName": "pages/product/_type/_slug",
+    "_name": "_54e75b2a"
+  },
+  {
+    "name": "det-type-slug___it",
+    "path": "/det/:type?/:slug?",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/det/_type/_slug.vue",
+    "chunkName": "pages/det/_type/_slug",
+    "_name": "_6923c94e"
+  },
+  {
+    "name": "product-type-slug___it",
+    "path": "/product/:type?/:slug?",
+    "component": "/home/dream/0-DREAM/Develop/Development/brico-b2b-nuxt/pages/product/_type/_slug.vue",
+    "chunkName": "pages/product/_type/_slug",
+    "_name": "_54e75b2a"
+  }
+]
